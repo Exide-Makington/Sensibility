@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "normal": { "model": "sensibility:redstone_sand" },
+        "inventory": { "model": "sensibility:redstone_sand" }
+    }
+}

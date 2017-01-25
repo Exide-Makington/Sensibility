@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "normal": { "model": "sensibility:glimpy_sand" },
+        "inventory": { "model": "sensibility:glimpy_sand" }
+    }
+}

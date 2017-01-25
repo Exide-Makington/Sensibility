@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "normal": { "model": "sensibility:crazy_crafter" },
+        "inventory": { "model": "sensibility:crazy_crafter" }
+    }
+}

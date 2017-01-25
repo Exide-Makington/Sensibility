@@ -1,0 +1,65 @@
+# Keys
+# keys.letsmodreboot.category=Let's Mod Reboot
+# keys.letsmodreboot.charge=Charge
+# keys.letsmodreboot.release=Release
+
+# Creative Tabs
+itemGroup.sensibility=Sensibility
+
+# Items
+item.sensibility:itemSpringBundle.name=Bunlde o' Springs
+item.sensibility:knife.name=Knife
+item.sensibility:logo.name=Sensibility Logo Item
+item.sensibility:cactuspie.name=Cactus Pie
+item.sensibility:cakeslice.name=Slice of Cake
+item.sensibility:cpieslice.name=Slice of Cactus Pie
+item.sensibility:lpieslice.name=Slice of Luminecent Pie
+item.sensibility:ppieslice.name=Slice of Pumpkin Pie
+item.sensibility:lumipie.name=Luminecent Pie
+item.sensibility:salad.name=Salad
+item.sensibility:glimpite_dust.name=Glimpite Dust
+item.sensibility:spring.name=Spring
+item.sensibility:spring_bundle.name=Bundle o' Springs
+item.sensibility:prodder.name=Universal Prodding Stick
+item.sensibility:salad.name=Salad
+item.sensibility:melon_hat.name=Melon Hat
+item.sensibility:melon_shirt.name=Melon Shirt
+item.sensibility:melon_pants.name=Melon Pants
+item.sensibility:melon_boots.name=Melon Boots
+
+# Blocks
+#tile.sensibility:flag.name=Flag (test)
+tile.sensibility:glimp.name=Glimp Block
+tile.sensibility:black_sand.name=Black Sand
+tile.sensibility:glimpy_sand.name=Glimpy Sand
+tile.sensibility:glimp_ore.name=Glimp Ore
+tile.sensibility:mob_bouncemaster.name=Mob Bouncemaster
+tile.sensibility:player_bouncemaster.name=Player Bouncemaster
+tile.sensibility:crazy_crafter.name=Crazy Crafting Table
+tile.sensibility:insanity_tubes.name=Insanity Tubes
+tile.sensibility:pumpkin_pie.name=Pumpkin Pie
+tile.sensibility:luminecent_pie.name=Luminecent Pie
+tile.sensibility:cactus_pie.name=Cactus Pie
+tile.sensibility:glowstone_sheet.name=Glowstone Sheet
+tile.sensibility:rose.name=Single Rose
+tile.sensibility:redstone_sand.name=Redstone Sand
+tile.sensibility:rusty_rail.name=Rusty Rail
+tile.sensibility:shock_absorber.name=Shock Absorber
+#=========CEILING=CARPETS========#
+tile.sensibility:sticky_carpet.white.name=White Sticky Ceiling Carpet
+tile.sensibility:sticky_carpet.orange.name=Orange Sticky Ceiling Carpet
+tile.sensibility:sticky_carpet.magenta.name=Magenta Sticky Ceiling Carpet
+tile.sensibility:sticky_carpet.light_blue.name=Light Blue Sticky Ceiling Carpet
+tile.sensibility:sticky_carpet.yellow.name=Yellow Sticky Ceiling Carpet
+tile.sensibility:sticky_carpet.lime.name=Lime Sticky Ceiling Carpet
+tile.sensibility:sticky_carpet.pink.name=Pink Sticky Ceiling Carpet
+tile.sensibility:sticky_carpet.gray.name=Gray Sticky Ceiling Carpet
+tile.sensibility:sticky_carpet.silver.name=Light Gray Sticky Ceiling Carpet
+tile.sensibility:sticky_carpet.cyan.name=Cyan Sticky Ceiling Carpet
+tile.sensibility:sticky_carpet.purple.name=Purple Sticky Ceiling Carpet
+tile.sensibility:sticky_carpet.blue.name=Blue Sticky Ceiling Carpet
+tile.sensibility:sticky_carpet.brown.name=Brown Sticky Ceiling Carpet
+tile.sensibility:sticky_carpet.green.name=Green Sticky Ceiling Carpet
+tile.sensibility:sticky_carpet.red.name=Red Sticky Ceiling Carpet
+tile.sensibility:sticky_carpet.black.name=Black Sticky Ceiling Carpet
+#================================#

@@ -1,0 +1,16 @@
+[
+{
+  "modid": "sensibility",
+  "name": "Sensibility",
+  "description": "§3All the things that should be, plus more!",
+  "version": "1.8.9-0.1",
+  "mcversion": "1.8.9",
+  "url": "http://this.makington.net/Sensibility/",
+  "updateUrl": "",
+  "authorList": ["Exide"],
+  "credits": "§6Exide§r, author; other people, inspiration",
+  "logoFile": "assets/sensibility/logo/SenseLogo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]

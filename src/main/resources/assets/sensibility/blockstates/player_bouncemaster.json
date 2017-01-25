@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "normal": { "model": "sensibility:player_bouncemaster" },
+        "inventory": { "model": "sensibility:player_bouncemaster" }
+    }
+}

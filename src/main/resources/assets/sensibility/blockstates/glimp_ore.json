@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "normal": { "model": "sensibility:glimp_ore" },
+        "inventory": { "model": "sensibility:glimp_ore" }
+    }
+}

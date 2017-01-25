@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "half=bottom": { "model": "sensibility:glowstone_sheet_bottom" },
+        "half=top": { "model": "sensibility:glowstone_sheet_top" },
+        "inventory": { "model": "sensibility:glowstone_sheet_bottom" }
+        
+    }
+}

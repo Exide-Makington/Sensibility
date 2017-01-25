@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "normal": { "model": "sensibility:glimp" },
+        "inventory": { "model": "sensibility:glimp" }
+    }
+}

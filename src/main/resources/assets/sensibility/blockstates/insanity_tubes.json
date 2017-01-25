@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "normal": { "model": "sensibility:insanity_tubes" },
+        "inventory": { "model": "sensibility:insanity_tubes" }
+    }
+}

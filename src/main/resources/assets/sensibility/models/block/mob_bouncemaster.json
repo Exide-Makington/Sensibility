@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "sensibility:blocks/bouncemaster_side",
+        "down": "blocks/furnace_top",
+        "up": "sensibility:blocks/mob_bouncemaster_top",
+        "north": "sensibility:blocks/bouncemaster_side",
+        "east": "sensibility:blocks/bouncemaster_side",
+        "south": "sensibility:blocks/bouncemaster_side",
+        "west": "sensibility:blocks/bouncemaster_side"
+    }
+}
